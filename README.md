@@ -1,2 +1,3 @@
-# Python
-Config files for my GitHub profile.
+# My first Python program on GitHub
+- print("Hello, World!")
+- print("Hi, Sanzu")
