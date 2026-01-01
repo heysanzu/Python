@@ -17,12 +17,9 @@ Enter a radius and get the area and circumference of a circle instantly.
 ```python
 python circleArea.py
 ```
-Enter the radius when prompted.
-```python
+Enter the radius when prompted
+```bash
 Enter radius: 5
 Area of Circle: 78.5
 Circumference of Circle: 31.4
 ```
----
-
-Perfect for learning Python basics! 🐍
