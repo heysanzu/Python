@@ -1,6 +1,5 @@
 # First Python program
-- print("Hello, World!")
-- print("I'm Sanzu")
+Print 'Hello, World!' to console
 ```python
 print("Hello, World!")
 print("I'm Sanzu")
