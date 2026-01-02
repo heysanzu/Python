@@ -13,7 +13,7 @@ A simple Python program that calculates the area and circumference of a circle
 area = 3.14 * radius * radius
 circumference = 2 * 3.14 * radius
 ```
-Enter the radius when prompted
+**Enter the radius when prompted:**
 ```bash
 Enter radius: 5
 Area of Circle: 78.5
@@ -30,10 +30,10 @@ Circumference of Circle: 31.4
 
 **How it works:**
 
-1. **Loop through each row** from 1 to `rows`
-2. **Calculate spaces**: `rows - i` (decreases each row)
-3. **Calculate stars**: `2 * i - 1` (odd numbers: 1, 3, 5, 7...)
-4. **Print spaces and stars** using string multiplication
+1. Loop through each row from 1 to `rows`
+2. Calculate spaces: `rows - i` (decreases each row)
+3. Calculate stars: `2 * i - 1` (odd numbers: 1, 3, 5, 7...)
+4. Print spaces and stars using string multiplication
 
 **Example trace for 5 rows:**
 ```
