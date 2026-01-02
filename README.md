@@ -1,5 +1,5 @@
 # First Python program
-Print 'Hello, World!' to console
+Print 'Hello, World!' to console.
 ```python
 print("Hello, World!")
 print("I'm Sanzu")
@@ -10,7 +10,7 @@ Hello, World!
 I'm Sanzu
 ```
 # Circle
-A simple Python program that calculates the area and circumference of a circle
+A simple Python program that calculates the area and circumference of a circle.
 - Area: π × r²
 - Circumference: 2 × π × r
 ```python
@@ -24,6 +24,7 @@ Area of Circle: 78.5
 Circumference of Circle: 31.4
 ```
 # Pyramid
+Prints a star pyramid pattern based on user input.
 ```   
     *
    ***
