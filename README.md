@@ -5,6 +5,11 @@
 print("Hello, World!")
 print("I'm Sanzu")
 ```
+**Output:**
+```bash
+Hello, World!
+I'm Sanzu
+```
 # Circle
 A simple Python program that calculates the area and circumference of a circle
 - Area: π × r²
