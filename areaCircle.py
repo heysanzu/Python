@@ -1,7 +1,7 @@
-radius = float(input("Enter radius:"))
+radius = float(input(f"Enter radius:"))
 
 area = 3.14 * radius * radius
-print("Area of Circle:", area)
+print(f"Area of Circle:", area)
 
 circumference = 2 * 3.14 * radius
-print("Circumference of Circle:", circumference)
+print(f"Circumference of Circle:", circumference)
