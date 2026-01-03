@@ -1,4 +1,4 @@
-# First Python program
+## First Python program
 Print 'Hello, World!' to console.
 ```python
 print("Hello, World!")
@@ -9,7 +9,7 @@ print("I'm Sanzu")
 Hello, World!
 I'm Sanzu
 ```
-# Circle
+## Circle
 A simple Python program that calculates the area and circumference of a circle.
 - Area: π × r²
 - Circumference: 2 × π × r
@@ -23,7 +23,7 @@ Enter radius: 5
 Area of Circle: 78.5
 Circumference of Circle: 31.4
 ```
-# Pyramid
+## Pyramid
 Prints a star pyramid pattern based on user input.
 ```   
     *
@@ -47,4 +47,27 @@ Row 2: spaces=3, stars=3  →    ***
 Row 3: spaces=2, stars=5  →   *****
 Row 4: spaces=1, stars=7  →  *******
 Row 5: spaces=0, stars=9  → *********
+```
+## Triangle
+A simple Python program that calculates the area of a triangle based on user input.
+
+**Run the program:**
+```python
+python areaTriangle.py
+```
+Enter the base and height when prompted:
+```bash
+Enter height: 10
+Enter base: 5
+-------------------------
+Area of Triangle: 25.0
+```
+
+**Requirements:**
+- Python 3.x
+
+**Formula:**
+The program uses the standard triangle area formula.
+```bash
+Area = ½ × base × height
 ```
