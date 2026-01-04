@@ -5,7 +5,7 @@ print("Hello, World!")
 print("I'm Sanzu")
 ```
 **Output:**
-```bash
+```
 Hello, World!
 I'm Sanzu
 ```
