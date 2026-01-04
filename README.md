@@ -87,11 +87,10 @@ Enter the exponent: 8
 - Python 3.x
 
 **How It Works:**
-```
-1. Prompts user for a base number
-2. Prompts user for an exponent
-3. Calculates base^exponent
+1. Prompts user for a `base` number
+2. Prompts user for an `exponent`
+3. Calculates `base^exponent`
 4. Displays the result in a formatted output
-```
+
 ---
-Author: `Hey Sanzu!`
+Author: `@heysanzu`
