@@ -99,7 +99,7 @@ Enter the exponent: 8
 
 **Run the program:**
 ```python
-python powerExponent.py
+python exponentPower.py
 ```
 **How It Works:**
 1. Prompts user for a `base` number
