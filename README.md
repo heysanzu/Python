@@ -74,7 +74,7 @@ Area = ½ × base × height
 ## Power Calculator
 A simple Python program that calculates the power of a number. This program takes two inputs from the user (base and exponent) and calculates the result of base raised to the power of exponent using Python's exponentiation operator (`**`).
 
-**Output:**
+Enter the base and exponent when prompted:
 ```
 Enter the base number: 2
 Enter the exponent: 8
