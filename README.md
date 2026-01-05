@@ -1,4 +1,4 @@
-## 1. First Python program
+## 1. Hello! Python
 Print 'Hello, World!' to console.
 ```python
 print("Hello, World!")
