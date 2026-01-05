@@ -13,6 +13,7 @@ python hello.py
 Hello, World!
 I'm Sanzu
 ```
+---
 ## 2. Circle
 A simple Python program that calculates the area and circumference of a circle.
 - Area: π × r²
@@ -31,6 +32,7 @@ Enter radius: 5
 Area of Circle: 78.5
 Circumference of Circle: 31.4
 ```
+---
 ## 3. Pyramid
 Prints a star pyramid pattern based on user input.
 ```   
@@ -60,6 +62,7 @@ Row 3: spaces=2, stars=5  →   *****
 Row 4: spaces=1, stars=7  →  *******
 Row 5: spaces=0, stars=9  → *********
 ```
+---
 ## 4. Triangle
 A simple Python program that calculates the area of a triangle based on user input.
 
@@ -82,6 +85,7 @@ The program uses the standard triangle area formula.
 ```bash
 Area = ½ × base × height
 ```
+---
 ## 5. Power Calculator
 A simple Python program that calculates the power of a number. This program takes two inputs from the user (base and exponent) and calculates the result of base raised to the power of exponent using Python's exponentiation operator (`**`).
 
@@ -108,4 +112,4 @@ python exponentPower.py
 4. Displays the result in a formatted output
 
 ---
-Author: `@heysanzu`
+Author: `heysanzu`
