@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cover.gif" alt="Thumbnail" width="800">
+</p>
+
 ## 1. Hello! Python
 Print 'Hello, World!' to console.
 ```python
