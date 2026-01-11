@@ -9,7 +9,7 @@ print("Hello, World!")
 print("I'm Sanzu")
 ```
 **Run the program:**
-```python
+```bash
 python hello.py
 ```
 **Output:**
