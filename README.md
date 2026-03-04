@@ -15,6 +15,8 @@ This app combines comprehensive Python notes with a built‑in compiler, so you 
   <button style="padding:10px 20px; background:green; color:white; border:none; border-radius:5px;">👉 Download</button>
 </a>
 
+---
+
 ## 1. Hello! Python
 Print 'Hello, World!' to console.
 ```python
