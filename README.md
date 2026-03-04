@@ -4,6 +4,7 @@
 
 ## Download "Sanzu"
 This app combines comprehensive Python notes with a built‑in compiler, so you can study and practice anywhere, without an internet connection.
+
 **How to Use:**
 - `Download` the appropriate version for your device.
 - `Install` the app (on Android, `allow installation from unknown sources` if needed).
