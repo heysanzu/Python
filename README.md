@@ -12,7 +12,7 @@ This android app combines comprehensive Python notes with a built‑in compiler,
 - Write your code in the editor, tap `Run`, and see the `output` instantly.
 
 <p align="left">
-  <img src="sanzu.gif" alt="Sanzu - Python notes & IDE for Android" width="100">
+  <img src="https://github.com/heysanzu/sanzu/raw/main/sanzu.gif" alt="Sanzu - Python notes & IDE for Android" width="100">
 </p>
 👉 <a href="https://heysanzu.github.io/sanzu/" download>
   <button style="padding:10px 20px; background:green; color:white; border:none; border-radius:5px;">Download</button>
