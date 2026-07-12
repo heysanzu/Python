@@ -134,4 +134,4 @@ python exponentPower.py
 4. Displays the result in a formatted output
 
 ---
-Author: `heysanzu`
+`heysanzu`
