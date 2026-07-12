@@ -134,4 +134,6 @@ python exponentPower.py
 4. Displays the result in a formatted output
 
 ---
-`heysanzu`
+<p align="center">
+  Shahnewaz (<a href="https://github.com/heysanzu">@heysanzu</a>)
+</p>
