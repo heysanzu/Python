@@ -45,7 +45,7 @@ area = 3.14 * radius * radius
 circumference = 2 * 3.14 * radius
 ```
 **Run the program:**
-```python
+```bash
 python areaCircle.py
 ```
 **Enter the radius when prompted:**
@@ -89,7 +89,7 @@ Row 5: spaces=0, stars=9  → *********
 A simple Python program that calculates the area of a triangle based on user input.
 
 **Run the program:**
-```python
+```bash
 python areaTriangle.py
 ```
 Enter the base and height when prompted:
